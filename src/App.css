@@ -1,0 +1,9 @@
+.product-header {
+  margin: 5px;
+  padding:10px;
+  border-radius: 10px;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+  border: 2px solid gray;
+}
